@@ -1,0 +1,74 @@
+.container{
+    background-color: lightgray;
+    width: 400px !important ;
+    margin-top: 100px;
+}
+.heading{
+    color: gray;
+    font-size: 10px !important ;
+    font-family: sans-serif;
+}
+.row{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 130px;
+    background-color: lightblue;
+    border-radius: 20px;
+}
+.card{
+    background-color: skyblue;
+    color: black;
+    height: 400px;
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    margin-left: 800px;
+    margin-top: 300px;
+    padding: 10px;
+   
+}
+#form{
+    background-color: black;
+    color: aliceblue;
+}
+#form button {
+  background-color: brown;
+}
+#container2{
+    transition: 0.5s;
+}
+#Select{
+    width: 200px;
+    border: none;
+    
+}
+#studentname2{
+    font-size: 22px;
+}
+#fathername{
+    font-size: 18px;
+}
+#cnic{
+    font-size: 15px;
+}
+#card-img{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+    border-radius: 50px;
+}
+.card input:hover{
+    background-color: lightblue;
+    border: none;
+ 
+}
+#contactnumber{
+font-size: 14px;
+}
+.table{
+    margin-top: 100px;
+}
+.table .inputdet{
+    margin-top:20302px ;
+}
